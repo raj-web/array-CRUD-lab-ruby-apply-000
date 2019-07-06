@@ -3,12 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  cats = ["keto", "kaali", "ellie", "miko" ]
+  ["keto", "kaali", "ellie", "miko" ]
 end
 
-cats = ["keto", "kaali", "ellie", "miko" ]
 def add_element_to_end_of_array(array, element)
-  cats.push ("dick")
+  array << dick
 end
 
 def add_element_to_start_of_array(array, element)
