@@ -6,6 +6,7 @@ def create_an_array
   cats = ["keto", "kaali", "ellie", "miko" ]
 end
 
+cats = ["keto", "kaali", "ellie", "miko" ]
 def add_element_to_end_of_array(array, element)
   cats.push ("dick")
 end
